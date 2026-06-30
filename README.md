@@ -5,13 +5,13 @@
 
 <!-- ───────────────────────────── TYPING HEADER ───────────────────────────── -->
 <p align="center">
-  <a href="https://github.com/sagarn24">
+  <a href="https://github.com/SAGAR-2-4">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineering+Graduate+%40+SLIIT;Quality+Engineer+Intern+%40+Rootcode+Labs;APICTA+Winning+Product+Contributor+%28SKAPP%29;AWS+Academy+Graduate+%7C+DevOps+Learner" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarn24&style=flat-square&color=70a5fd" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SAGAR-2-4&style=flat-square&color=70a5fd" alt="profile views" />
 </p>
 
 <!-- ───────────────────────────── ABOUT ME (CODE BLOCK) ───────────────────────────── -->
@@ -24,7 +24,7 @@ const nithyasagar = {
     name: "Nithyasagar Shanmugalingam",
     location: "Wattala, Sri Lanka",
     degree: "BSc (Hons) Information Technology, SLIIT",
-    role: "Software Engineer Trainee | Data Engineering | Devops ",
+    role: "Software Engineer Trainee | DevOps Enthusiast",
 
     stack: {
         languages: ["JavaScript", "Java", "Python", "SQL"],
@@ -92,31 +92,31 @@ const nithyasagar = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sagarn24">
+  <a href="https://github.com/SAGAR-2-4">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAGAR-2-4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/sagarn24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarn24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/SAGAR-2-4">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-2-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
 <!-- ───────────────────────────── STREAK STATS ───────────────────────────── -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sagarn24&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=SAGAR-2-4&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 <!-- ───────────────────────────── ACTIVITY GRAPH ───────────────────────────── -->
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarn24&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGAR-2-4&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 <!-- ───────────────────────────── TROPHIES ───────────────────────────── -->
 ### 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarn24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAGAR-2-4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 <!-- ───────────────────────────── WORK EXPERIENCE ───────────────────────────── -->
@@ -143,9 +143,9 @@ const nithyasagar = {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[EDU-SENSE — AI-Driven Adaptive E-Learning System](https://github.com/sagarn24)** | Python, CNN, FNN, Machine Learning | Designed a CNN to detect student stress patterns and an FNN to deliver personalized interventions; research paper selected for **ICAC** presentation |
-| **[E-Commerce Platform — Ester Aura Organic Cosmetics](https://github.com/sagarn24)** | React.js, Node.js, Express.js, MongoDB, Bootstrap | Built cart management & product workflow modules; integrated REST APIs end-to-end; beta tested with **25 users** |
-| **[Gym Management System](https://github.com/sagarn24)** | Java, Spring Boot, Spring MVC, MySQL, REST API | RESTful backend for members, plans & trainers; normalised schema for attendance and payments |
+| **[EDU-SENSE — AI-Driven Adaptive E-Learning System](https://github.com/SAGAR-2-4)** | Python, CNN, FNN, Machine Learning | Designed a CNN to detect student stress patterns and an FNN to deliver personalized interventions; research paper selected for **ICAC** presentation |
+| **[E-Commerce Platform — Ester Aura Organic Cosmetics](https://github.com/SAGAR-2-4)** | React.js, Node.js, Express.js, MongoDB, Bootstrap | Built cart management & product workflow modules; integrated REST APIs end-to-end; beta tested with **25 users** |
+| **[Gym Management System](https://github.com/SAGAR-2-4)** | Java, Spring Boot, Spring MVC, MySQL, REST API | RESTful backend for members, plans & trainers; normalised schema for attendance and payments |
 
 </div>
 
@@ -207,7 +207,7 @@ const nithyasagar = {
 
 <p align="center">
   <a href="mailto:shanmugalingamnithiyasagar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sagarn24"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SAGAR-2-4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- ───────────────────────────── FOOTER ───────────────────────────── -->
