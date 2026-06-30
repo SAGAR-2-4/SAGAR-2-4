@@ -24,7 +24,7 @@ const nithyasagar = {
     name: "Nithyasagar Shanmugalingam",
     location: "Wattala, Sri Lanka",
     degree: "BSc (Hons) Information Technology, SLIIT",
-    role: "Software Engineer Trainee | DevOps Enthusiast",
+    role: "Software Engineer Trainee | Data Engineering | Devops ",
 
     stack: {
         languages: ["JavaScript", "Java", "Python", "SQL"],
